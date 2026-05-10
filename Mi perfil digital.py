@@ -3,7 +3,7 @@
 
 nombre = "Silvio Antonio Lobo Alvarado"
 edad = 13
-estatura = 1.62
+estatura = 1.63
 es_estudiante = True
 
 # 2. Redes_Sociales = (tuple)
